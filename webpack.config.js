@@ -9,6 +9,13 @@ module.exports = {
 		minimize: false,
 	},
 
+	resolve: {
+		alias: {
+			'feather-icons': 'feather-icons/dist/icons/',
+			'simple-icons': 'simple-icons/icons/',
+		},
+	},
+
 	entry: {
 		'index': './src/index',
 	},
@@ -43,6 +50,15 @@ module.exports = {
 									},
 								},
 							],
+						},
+					},
+					{
+						loader: 'svg-trace-loader',
+						options: {
+							dimensions: {
+								width: 16,
+								height: 16,
+							},
 						},
 					},
 				],
