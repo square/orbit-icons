@@ -20,7 +20,7 @@ export { default as CirclePlusIcon } from 'feather-icons/plus-circle.svg';
 export { default as CircleQuestionMarkIcon } from 'feather-icons/help-circle.svg';
 export { default as CircleXIcon } from 'feather-icons/x-circle.svg';
 export { default as DragBarsIcon } from 'feather-icons/menu.svg';
-export { default as ExclamationTriangleIcon } from 'feather-icons/alert-triangle';
+export { default as ExclamationTriangleIcon } from 'feather-icons/alert-triangle.svg';
 export { default as FilterIcon } from 'feather-icons/sliders.svg';
 export { default as GearIcon } from 'feather-icons/settings.svg';
 export { default as GoogleIcon } from 'simple-icons/google.svg';
