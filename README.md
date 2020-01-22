@@ -1,2 +1,2 @@
 # orbit-icons
-Orbit Icons
+Icons for Orbit
