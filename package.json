@@ -11,6 +11,7 @@
     "url": "https://github.com/privatenumber/orbit-icons/issues"
   },
   "homepage": "https://github.com/privatenumber/orbit-icons#readme",
+  "files": ["dist"],
   "main": "dist/index.js",
   "scripts": {
     "build": "webpack"
