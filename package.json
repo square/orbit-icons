@@ -6,12 +6,12 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/privatenumber/orbit-icons.git"
+    "url": "git+https://github.com/square/orbit-icons.git"
   },
   "bugs": {
-    "url": "https://github.com/privatenumber/orbit-icons/issues"
+    "url": "https://github.com/square/orbit-icons/issues"
   },
-  "homepage": "https://github.com/privatenumber/orbit-icons#readme",
+  "homepage": "https://github.com/square/orbit-icons#readme",
   "files": ["dist"],
   "main": "dist/index.js",
   "scripts": {
