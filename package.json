@@ -3,6 +3,7 @@
   "version": "1.0.0-rc.1",
   "description": "Orbit Icons",
   "author": "Hiroki Osame <hiroki.osame@gmail.com>",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/privatenumber/orbit-icons.git"
