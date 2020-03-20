@@ -5,10 +5,6 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 module.exports = {
 	mode: 'production',
 
-	optimization: {
-		minimize: false,
-	},
-
 	resolve: {
 		alias: {
 			'feather-icons': 'feather-icons/dist/icons/',
@@ -22,7 +18,7 @@ module.exports = {
 
 	output: {
 		path: path.resolve('dist'),
-		libraryTarget: 'commonjs',
+		libraryTarget: 'umd',
 	},
 
 	module: {
